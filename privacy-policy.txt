@@ -1,0 +1,72 @@
+SMARTWALLET PRIVACY POLICY
+
+Effective date: 21 September 2026
+
+This Privacy Policy applies to SmartWallet, a personal finance and budgeting application developed by Nikhil Fuge. SmartWallet does not require an account.
+
+1. INFORMATION YOU ENTER
+
+SmartWallet lets you enter wallets, balances, payments, expenses, income, budgets, recurring transactions and subscriptions, financial goals, classifications, categories, and other information you choose to enter. This information is primarily stored locally on your device. SmartWallet does not operate a backend account system for your financial data and does not send your financial records to a SmartWallet server.
+
+2. ICLOUD BACKUP AND RESTORE
+
+SmartWallet provides optional iCloud Backup & Restore. If you choose to use it, SmartWallet creates a backup of your SmartWallet data and stores it in your personal iCloud account using Apple's iCloud services. SmartWallet does not operate or control Apple's iCloud service; your use of iCloud is subject to Apple's terms and privacy practices.
+
+3. APP LOCK AND FACE ID
+
+SmartWallet can use Face ID or the device passcode through Apple's LocalAuthentication framework. SmartWallet does not receive, access, or store Face ID biometric data. Authentication is performed by the operating system and SmartWallet receives only the authentication result needed to control access to the app.
+
+4. APP STORE SUBSCRIPTIONS
+
+SmartWallet offers optional auto-renewable subscriptions through Apple's App Store, including SmartWallet Pro. Purchases are processed by Apple using StoreKit and App Store services. SmartWallet does not receive or store your credit card, debit card, bank account, or other payment instrument details used for an App Store purchase. SmartWallet may receive transaction and subscription entitlement information needed to provide purchased features.
+
+5. UPI AND EXTERNAL PAYMENT APPS
+
+SmartWallet may allow you to launch a compatible UPI or payment application installed on your device. SmartWallet does not process or store your UPI payment credentials or payment account information as part of this functionality. Payments made through another application are subject to that application's terms and privacy policy.
+
+6. LOCATION
+
+SmartWallet does not collect precise location information and does not require access to device location.
+
+7. ANALYTICS, ADVERTISING AND TRACKING
+
+SmartWallet does not use third-party analytics SDKs, advertising SDKs, or cross-app tracking. SmartWallet does not sell your personal or financial information and does not use financial information for advertising or behavioural profiling.
+
+8. INFORMATION SHARING
+
+SmartWallet does not operate a service that collects and shares your financial records with third parties. Information may be processed by Apple services when you independently choose to use Apple-dependent features such as App Store purchases, subscription management, or iCloud Backup & Restore. SmartWallet does not otherwise sell, rent, or share your financial information with third parties for advertising or marketing purposes.
+
+9. DATA RETENTION AND DELETION
+
+Your SmartWallet financial data is stored locally on your device unless you choose to create an iCloud backup. You can remove locally stored SmartWallet data using available app deletion/reset functionality or by removing the app from your device, subject to the behaviour of the operating system. An iCloud backup may remain in your iCloud account until you delete it through applicable Apple/iCloud controls.
+
+10. DATA SECURITY
+
+SmartWallet uses a local-first architecture. Financial records are stored locally on your device and SmartWallet does not maintain a cloud database containing your financial records. SmartWallet also provides app locking using Apple's LocalAuthentication framework and optional iCloud backup. No method of electronic storage or transmission can be guaranteed completely secure. You are responsible for maintaining the security of your device, Apple account, and device passcode.
+
+11. CHILDREN
+
+SmartWallet is a general personal finance application and is not directed specifically at children. We do not knowingly collect personal information from children through a SmartWallet account or backend service because SmartWallet does not require users to create an account or submit personal information to us for registration.
+
+12. THIRD-PARTY SERVICES
+
+SmartWallet uses Apple platform services where required for functionality, including Apple App Store and StoreKit for subscriptions and purchases, Apple LocalAuthentication for Face ID and device authentication, and Apple iCloud services for optional backup and restore. These services are operated by Apple and are subject to Apple's applicable terms and privacy practices.
+
+13. CHANGES
+
+We may update this Privacy Policy when SmartWallet's features or data practices change. When changes are made, we will update the effective date and publish the updated version at this location.
+
+14. CONTACT
+
+For questions about this Privacy Policy or SmartWallet's privacy practices:
+Nikhil Fuge
+nikhil.fuge@gmail.com
+
+15. APPLE TERMS OF USE
+
+SmartWallet uses Apple's Standard Licensed Application End User License Agreement (EULA) unless otherwise stated in App Store Connect.
+
+Apple Standard EULA:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
+This Privacy Policy explains SmartWallet's privacy practices and is separate from Apple's Terms of Use and EULA.
