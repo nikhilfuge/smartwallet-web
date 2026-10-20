@@ -1,68 +1,94 @@
 SMARTWALLET PRIVACY POLICY
 
-Effective date: 21 September 2026
+Effective date: 20 October 2026
 
-This Privacy Policy applies to SmartWallet, a personal finance and budgeting application developed by Nikhil Fuge. SmartWallet does not require an account.
+This Privacy Policy applies to SmartWallet, a personal finance and budgeting application developed by Nikhil Fuge. SmartWallet does not require you to create an account.
 
 1. INFORMATION YOU ENTER
 
-SmartWallet lets you enter wallets, balances, payments, expenses, income, budgets, recurring transactions and subscriptions, financial goals, classifications, categories, and other information you choose to enter. This information is primarily stored locally on your device. SmartWallet does not operate a backend account system for your financial data and does not send your financial records to a SmartWallet server.
+SmartWallet lets you enter wallets, balances, payments, expenses, income, budgets, recurring transactions and subscriptions, financial goals, classifications, categories, notes, and other information you choose to enter. Your financial records are primarily stored locally on your device. SmartWallet does not operate a backend account system for your financial records and does not send those records to a SmartWallet-operated server.
 
-2. ICLOUD BACKUP AND RESTORE
+2. WIDGETS, SHORTCUTS AND SYSTEM INTEGRATIONS
+
+SmartWallet may provide Home Screen and Lock Screen widgets, Control Centre controls, Action Button actions, Siri and Shortcuts actions, Spotlight integration, and app-icon quick actions. These features use information needed to display your balance or spending summaries and to prepare or initiate payment entry. Widget data is made available to the relevant Apple system components so they can display the information you request. Your use of Siri, Shortcuts, Spotlight, widgets, and other Apple system features is also subject to Apple's terms and privacy practices.
+
+3. VOICE ENTRY AND SPEECH RECOGNITION
+
+When you use voice entry, SmartWallet uses the spoken command to prepare a payment entry, such as an amount and wallet. You can review or confirm the details when the app needs clarification. The resulting financial record is stored as part of your SmartWallet data. Depending on the speech-recognition technology and settings used on your device, audio or speech-recognition requests may be processed by Apple or another system service. Such processing is subject to the applicable provider's terms and privacy practices. SmartWallet does not use voice commands or financial records for advertising.
+
+4. NOTIFICATIONS AND REMINDERS
+
+If you enable notifications, SmartWallet may schedule reminders such as a morning balance summary, low-balance or wallet-refill alerts, and an evening reminder to record payments. These notifications are intended to help you manage your finances. Notification availability and content depend on your settings and the permissions you grant. SmartWallet does not use notifications for third-party advertising.
+
+5. ICLOUD BACKUP AND RESTORE
 
 SmartWallet provides optional iCloud Backup & Restore. If you choose to use it, SmartWallet creates a backup of your SmartWallet data and stores it in your personal iCloud account using Apple's iCloud services. SmartWallet does not operate or control Apple's iCloud service; your use of iCloud is subject to Apple's terms and privacy practices.
 
-3. APP LOCK AND FACE ID
+6. APP LOCK AND FACE ID
 
-SmartWallet can use Face ID or the device passcode through Apple's LocalAuthentication framework. SmartWallet does not receive, access, or store Face ID biometric data. Authentication is performed by the operating system and SmartWallet receives only the authentication result needed to control access to the app.
+SmartWallet can use Face ID or your device passcode through Apple's LocalAuthentication framework. SmartWallet does not receive, access, or store Face ID biometric data. Authentication is performed by the operating system, and SmartWallet receives only the authentication result needed to control access to the app.
 
-4. APP STORE SUBSCRIPTIONS
+7. SUBSCRIPTIONS, APPLE AND REVENUECAT
 
-SmartWallet offers optional auto-renewable subscriptions through Apple's App Store, including SmartWallet Pro. Purchases are processed by Apple using StoreKit and App Store services. SmartWallet does not receive or store your credit card, debit card, bank account, or other payment instrument details used for an App Store purchase. SmartWallet may receive transaction and subscription entitlement information needed to provide purchased features.
+SmartWallet offers optional auto-renewable subscriptions, including SmartWallet Pro. Purchases are made through Apple's App Store. SmartWallet uses RevenueCat's subscription-management service to help validate purchases, maintain subscription status, restore purchases, and determine access to subscription features.
 
-5. UPI AND EXTERNAL PAYMENT APPS
+For these purposes, RevenueCat may process purchase and transaction information, subscription or entitlement status, an app-specific customer identifier (which may be an anonymous identifier), and limited technical information about the device and app. This information is used to provide and maintain subscription functionality. SmartWallet does not require you to provide your name or email address to use the app, and it does not intentionally attach your financial records, wallet balances, payment descriptions, or voice commands to RevenueCat subscription records.
 
-SmartWallet may allow you to launch a compatible UPI or payment application installed on your device. SmartWallet does not process or store your UPI payment credentials or payment account information as part of this functionality. Payments made through another application are subject to that application's terms and privacy policy.
+Apple processes App Store payments and controls the payment methods associated with your Apple Account. SmartWallet and RevenueCat do not receive your full credit-card or bank-payment credentials from Apple as part of the in-app purchase flow. Apple's and RevenueCat's services are subject to their respective terms and privacy policies.
 
-6. LOCATION
+RevenueCat Privacy Policy:
+https://www.revenuecat.com/privacy
 
-SmartWallet does not collect precise location information and does not require access to device location.
+Apple Privacy Policy:
+https://www.apple.com/legal/privacy/
 
-7. ANALYTICS, ADVERTISING AND TRACKING
+8. UPI AND EXTERNAL PAYMENT APPS
 
-SmartWallet does not use third-party analytics SDKs, advertising SDKs, or cross-app tracking. SmartWallet does not sell your personal or financial information and does not use financial information for advertising or behavioural profiling.
+SmartWallet may allow you to launch a compatible UPI or payment application installed on your device. SmartWallet does not process or store your UPI payment credentials or payment-account information as part of this functionality. Payments made through another application are subject to that application's terms and privacy policy.
 
-8. INFORMATION SHARING
+9. LOCATION
 
-SmartWallet does not operate a service that collects and shares your financial records with third parties. Information may be processed by Apple services when you independently choose to use Apple-dependent features such as App Store purchases, subscription management, or iCloud Backup & Restore. SmartWallet does not otherwise sell, rent, or share your financial information with third parties for advertising or marketing purposes.
+SmartWallet does not request access to device location or intentionally collect precise location information.
 
-9. DATA RETENTION AND DELETION
+10. ANALYTICS, ADVERTISING AND TRACKING
 
-Your SmartWallet financial data is stored locally on your device unless you choose to create an iCloud backup. You can remove locally stored SmartWallet data using available app deletion/reset functionality or by removing the app from your device, subject to the behaviour of the operating system. An iCloud backup may remain in your iCloud account until you delete it through applicable Apple/iCloud controls.
+SmartWallet does not use advertising SDKs or cross-app tracking for targeted advertising. SmartWallet does not sell your personal or financial information. RevenueCat processes subscription-related information as described in Section 7; this is separate from general-purpose advertising analytics. SmartWallet's own financial insights are calculated within the app from the financial information you enter.
 
-10. DATA SECURITY
+11. INFORMATION SHARING
 
-SmartWallet uses a local-first architecture. Financial records are stored locally on your device and SmartWallet does not maintain a cloud database containing your financial records. SmartWallet also provides app locking using Apple's LocalAuthentication framework and optional iCloud backup. No method of electronic storage or transmission can be guaranteed completely secure. You are responsible for maintaining the security of your device, Apple account, and device passcode.
+SmartWallet does not operate a service that collects and shares your financial records with third parties. Information may be processed by Apple services when you use Apple-dependent features, including speech recognition, widgets and system integrations, App Store purchases, subscription management, notifications, or iCloud Backup & Restore. RevenueCat receives the limited information described in Section 7 to provide subscription functionality. SmartWallet does not otherwise sell, rent, or share your financial records with third parties for advertising or marketing purposes.
 
-11. CHILDREN
+12. DATA RETENTION AND DELETION
 
-SmartWallet is a general personal finance application and is not directed specifically at children. We do not knowingly collect personal information from children through a SmartWallet account or backend service because SmartWallet does not require users to create an account or submit personal information to us for registration.
+Your SmartWallet financial data is stored locally on your device unless you choose to create an iCloud backup. You can remove local data by using available app reset or deletion options, or by removing the app from your device, subject to the behaviour of the operating system and any data retained by system services. An iCloud backup may remain in your iCloud account until you delete it through applicable Apple/iCloud controls. RevenueCat may retain purchase and subscription records as needed to provide subscription services and comply with its own legal and operational obligations; see RevenueCat's Privacy Policy for details.
 
-12. THIRD-PARTY SERVICES
+13. DATA SECURITY
 
-SmartWallet uses Apple platform services where required for functionality, including Apple App Store and StoreKit for subscriptions and purchases, Apple LocalAuthentication for Face ID and device authentication, and Apple iCloud services for optional backup and restore. These services are operated by Apple and are subject to Apple's applicable terms and privacy practices.
+SmartWallet uses a local-first architecture. Financial records are stored locally on your device, and SmartWallet does not maintain a cloud database containing your financial records. SmartWallet also provides app locking using Apple's LocalAuthentication framework and optional iCloud backup. No method of electronic storage or transmission can be guaranteed completely secure. You are responsible for maintaining the security of your device, Apple Account, and device passcode.
 
-13. CHANGES
+14. CHILDREN
+
+SmartWallet is a general personal finance application and is not directed specifically at children. SmartWallet does not require users to create an account or submit personal information to us for registration.
+
+15. THIRD-PARTY SERVICES
+
+Depending on the features you use, SmartWallet may interact with these services:
+- Apple services, including App Store and StoreKit for purchases, LocalAuthentication for device authentication, iCloud for optional backup, and Apple system features such as widgets, Siri, Shortcuts, and speech recognition.
+- RevenueCat, for subscription purchase validation, entitlement status, and subscription management.
+
+These services are operated by their respective providers and are subject to their applicable terms and privacy practices.
+
+16. CHANGES TO THIS POLICY
 
 We may update this Privacy Policy when SmartWallet's features or data practices change. When changes are made, we will update the effective date and publish the updated version at this location.
 
-14. CONTACT
+17. CONTACT
 
 For questions about this Privacy Policy or SmartWallet's privacy practices:
 Nikhil Fuge
 nikhil.fuge@gmail.com
 
-15. APPLE TERMS OF USE
+18. APPLE TERMS OF USE
 
 SmartWallet uses Apple's Standard Licensed Application End User License Agreement (EULA) unless otherwise stated in App Store Connect.
 
